@@ -1,3 +1,3 @@
 package dupkg
 
-cosnt Note = "the foo subfolder doesn't contain another module"
+cosnt Note = "the foo subfolder contains another module now"
